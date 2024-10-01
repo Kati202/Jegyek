@@ -1,0 +1,1 @@
+PHP nyelven íródott Jssel lett dinamikusabb és Css,Bootsrap segítségével szebb. Az "átlagos jegy" kiszámoló űrlap és táblázatba való megjelenítése az esetleges tanulóknak szerkesztés és törlés funkcióval adatbázis Mysql.
